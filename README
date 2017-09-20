@@ -1,0 +1,4 @@
+1. Créer une base de données "boats"
+2. Executer le fichier database.sql
+3. Modifier si besoin les identifiants BDD dans les fichiers BoatRepository.php et connection.php
+4. La page d'accueil est index.php
